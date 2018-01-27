@@ -1,0 +1,7 @@
+flask
+requests
+gunicorn
+pymessenger
+PyDictionary
+
+# add new packages one per each line
